@@ -28,7 +28,6 @@
 		F8E02CF9177A8B710087BB23 /* UIButton+AFNetworking.m in Sources */ = {isa = PBXBuildFile; fileRef = F8E02CF0177A8B710087BB23 /* UIButton+AFNetworking.m */; };
 		F8E02CFA177A8B710087BB23 /* UIImageView+AFNetworking.m in Sources */ = {isa = PBXBuildFile; fileRef = F8E02CF2177A8B710087BB23 /* UIImageView+AFNetworking.m */; };
 		F8E02CFB177A8B710087BB23 /* UIProgressView+AFNetworking.m in Sources */ = {isa = PBXBuildFile; fileRef = F8E02CF4177A8B710087BB23 /* UIProgressView+AFNetworking.m */; };
-		F8E02CFC177A8B710087BB23 /* UIWebView+AFNetworking.m in Sources */ = {isa = PBXBuildFile; fileRef = F8E02CF6177A8B710087BB23 /* UIWebView+AFNetworking.m */; };
 		F8E469651395739D00DB05C8 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = F8E469641395739D00DB05C8 /* UIKit.framework */; };
 		F8E469671395739D00DB05C8 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = F8E469661395739D00DB05C8 /* Foundation.framework */; };
 		F8E469691395739D00DB05C8 /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = F8E469681395739D00DB05C8 /* CoreGraphics.framework */; };
@@ -393,6 +392,7 @@
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
 			knownRegions = (
+				English,
 				en,
 			);
 			mainGroup = F8E469551395739C00DB05C8;
@@ -446,7 +446,6 @@
 				F8FA94B1150EFEC100ED4EAD /* AFHTTPSessionManager.m in Sources */,
 				F8D5499D17DB0EFE00BFF314 /* AFURLRequestSerialization.m in Sources */,
 				F8D5499A17DB0EF300BFF314 /* AFURLResponseSerialization.m in Sources */,
-				F8E02CFC177A8B710087BB23 /* UIWebView+AFNetworking.m in Sources */,
 				F8FA94B2150EFEC100ED4EAD /* AFHTTPRequestOperation.m in Sources */,
 				F8FA94B8150EFEC100ED4EAD /* AFURLConnectionOperation.m in Sources */,
 				F8FA94C1150F019100ED4EAD /* PostTableViewCell.m in Sources */,
